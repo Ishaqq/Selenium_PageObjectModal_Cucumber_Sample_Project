@@ -1,0 +1,13 @@
+<suite name="CucumberSuite" verbose="1" parallel="false">
+  <test name="RunTests">
+    <classes>
+      <class name="cucumber.TestNGTestRunner" />
+    </classes>
+  </test>
+
+  <test name="GenerateReport">
+    <classes>
+      <class name="cucumber.ReportRunner" />
+    </classes>
+  </test>
+</suite>
