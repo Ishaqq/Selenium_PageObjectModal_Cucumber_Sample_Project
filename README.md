@@ -17,7 +17,7 @@ This is a sample automation framework built using **Selenium WebDriver**, **Cucu
 - **TestNG**
 - **Maven** (Build Tool)
 - **Extent Reports** (optional for reporting)
-- - **Cucucmber HTML Reports** (optional for reporting)
+- **Cucucmber HTML Reports** (optional for reporting)
 
 ---
 
