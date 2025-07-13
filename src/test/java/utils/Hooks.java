@@ -35,7 +35,7 @@ public class Hooks extends BaseTest {
                 scenario.attach(screenshotBytes, "image/png", "Screenshot");
 
             } catch (IOException e) {
-                System.out.println("❌ Screenshot capture failed: " + e.getMessage());
+                System.out.println("Screenshot capture failed: " + e.getMessage());
             }
    //     }
 
